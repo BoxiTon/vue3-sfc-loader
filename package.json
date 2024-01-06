@@ -1,5 +1,5 @@
 {
-  "name": "vue3-sfc-loader",
+  "name": "@tangdm/vue3-sfc-loader",
   "description": "Single File Component loader",
   "keywords": [
     "vue",
@@ -8,15 +8,18 @@
     "component-loader",
     "nobuild"
   ],
-  "homepage": "https://github.com/FranckFreiburger/vue3-sfc-loader",
+  "homepage": "https://github.com/BoxiTon/vue3-sfc-loader",
   "author": {
-    "name": "Franck FREIBURGER",
-    "email": "franck.freiburger@gmail.com",
-    "url": "https://franck-freiburger.com/"
+    "name": "tangdm",
+    "email": "554281161@qq.com"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FranckFreiburger/vue3-sfc-loader"
+    "url": "https://github.com/BoxiTon/vue3-sfc-loader"
   },
   "license": "MIT",
   "version": "0.8.4",
